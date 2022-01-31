@@ -8,4 +8,4 @@ https://user-images.githubusercontent.com/98556925/151840656-f505968c-4b07-492f-
 
 
 
-#### Heres a link to the game!  https://scratch.mit.edu/projects/636170281
+#### Here is a link to the game!  https://scratch.mit.edu/projects/636170281
