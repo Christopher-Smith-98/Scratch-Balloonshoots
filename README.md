@@ -1,7 +1,7 @@
 # Scratch-Balloonshoots
 Simple Scratch game following the [CS50 Online Course](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) online course. <br />
 Features:<br />
-- Moving Canon
+- Moving Cannon
 - Bouncing/Respawning Balloons
 - Win/Loss Screen
 - Game Restarts
