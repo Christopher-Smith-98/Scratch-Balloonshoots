@@ -7,7 +7,8 @@ Features:<br />
 - Game Restarts
 
 
-https://user-images.githubusercontent.com/98556925/151840656-f505968c-4b07-492f-9c24-67eed14af5e6.mp4
+![BalloonShoots](https://user-images.githubusercontent.com/98556925/151902852-b5388efb-a644-4254-92f5-8c747d9276a1.gif)
+
 
 
 
